@@ -1,0 +1,20 @@
+id: A5353F74F
+title: Toh_211-Teaching_the_Fundamental_Exposition_of_Dependent_Arising-v2
+type: translation
+pechas:
+- I7CCC4BA6
+- I2823348A
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-062-011
+  eft-text-version: 1.1.3 2020
+  title: Toh_211-Teaching_the_Fundamental_Exposition_of_Dependent_Arising-v2
+alignment_to_base:
+  I7CCC4BA6/C4D0: DE15
+  I2823348A/E855: DE15
